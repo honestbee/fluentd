@@ -1,0 +1,2 @@
+# fluentd
+Custom fluentd image
